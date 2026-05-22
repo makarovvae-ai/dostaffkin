@@ -54,6 +54,7 @@
     font-size: 14px;
     color: #111111;
     text-decoration: none;
+}
 
     @media (max-width: 767px) {
         .header {
